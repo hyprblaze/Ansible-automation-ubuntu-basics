@@ -72,7 +72,9 @@ By the end of the course, you will be able to:
 ---
 
 ## Ansible Automation Rough Diagram  
- 
+ <p align="center">
+  <img src="images/Architecture.png" alt="Ansible Automation Architecture">
+</p>
 
 In this setup:  
 - **1 Ubuntu server** acts as the **Ansible Control Node**  
