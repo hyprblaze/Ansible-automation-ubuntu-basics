@@ -4,7 +4,7 @@ This directory stores all images, diagrams, and architecture visuals used in the
 ---
 # Images:
 
-## images/Architecture.png
+## Image 1 - Architecture
 <p align="center">
   <img src="Architecture.png" alt="Ansible Automation Architecture">
 </p>
