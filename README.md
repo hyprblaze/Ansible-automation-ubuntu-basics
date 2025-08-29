@@ -76,5 +76,5 @@ By the end of the course, you will be able to:
 
 In this setup:  
 - **1 Ubuntu server** acts as the **Ansible Control Node**  
-- **2 Ubuntu servers** act as the **Target Nodes**  
+- **3 Ubuntu servers** act as the **Target Nodes**  
 - The control node connects to and automates the target nodes via **SSH**.  
